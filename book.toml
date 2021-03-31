@@ -1,0 +1,16 @@
+[book]
+authors = ["张赫"]
+language = "zh-CN"
+multilingual = false
+src = "src"
+title = "CSS Handbook"
+description = "Javascrip 手册"
+
+[output.html]
+mathjax-support = true
+preferred-dark-theme = "ayu"
+google-analytics = "UA-166861237-2"
+git-repository-url = "https://github.com/zhanghecool/css"
+
+[output.html.playpen]
+editable = true
