@@ -7,6 +7,7 @@ title = "CSS Handbook"
 description = "Javascrip 手册"
 
 [output.html]
+theme = "theme"
 mathjax-support = true
 preferred-dark-theme = "ayu"
 google-analytics = "UA-166861237-2"
