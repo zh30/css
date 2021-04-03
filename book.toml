@@ -4,7 +4,7 @@ language = "zh-CN"
 multilingual = false
 src = "src"
 title = "CSS Handbook"
-description = "Javascrip 手册"
+description = "CSS 手册"
 
 [output.html]
 theme = "theme"
