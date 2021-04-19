@@ -3,7 +3,7 @@ authors = ["张赫"]
 language = "zh-CN"
 multilingual = false
 src = "src"
-title = "CSS Handbook"
+title = "CSS SPEC­I­FI­CA­TIONS"
 description = "CSS 手册"
 
 [output.html]
