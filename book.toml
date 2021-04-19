@@ -3,8 +3,8 @@ authors = ["张赫"]
 language = "zh-CN"
 multilingual = false
 src = "src"
-title = "CSS SPEC­I­FI­CA­TIONS"
-description = "CSS 手册"
+title = "CSS 规范"
+description = "CSS SPEC­I­FI­CA­TIONS"
 
 [output.html]
 theme = "theme"
